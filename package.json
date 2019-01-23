@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "dependencies": {
     "@furo/fbp": "^4.0.5",
-    "@furo/mixins": "file:../furo-mixins",
+    "@furo/mixins": "0.0.2",
     "@polymer/iron-ajax": "^3.0.1",
     "@polymer/polymer": "^3.0.0"
   },
